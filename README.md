@@ -59,4 +59,9 @@ Le vol est défini par la compagnie.
 
 Le use case diagram modèlise les actions entre chaque acteurs de l'application, permettant ainsi de faire fonctionner notre application.
 
-![](https://cdn.discordapp.com/attachments/1027222476150816828/1051080906112245813/use_case_diagram.png)
+![use case](https://cdn.discordapp.com/attachments/1027222476150816828/1051080906112245813/use_case_diagram.png)
+
+### Réalisation d'un diagramme d'activité
+Le diagramme d'activité représente le fonctionnement de l'application du côté du client.
+
+![diagramme d'activité](https://cdn.discordapp.com/attachments/1027222476150816828/1051080906636525618/Activity_diagram.png)
