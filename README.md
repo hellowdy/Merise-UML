@@ -65,3 +65,10 @@ Le use case diagram modèlise les actions entre chaque acteurs de l'application,
 Le diagramme d'activité représente le fonctionnement de l'application du côté du client.
 
 ![diagramme d'activité](https://cdn.discordapp.com/attachments/1027222476150816828/1051080906636525618/Activity_diagram.png)
+
+### Réalisation d'un Diagramme de séquence
+
+Le diagramme de séquence permet de suivre chaque étapes dans les détails.
+Pour cette application, nous proposons 4 diagrammes :
+- Le premier cas : un simple visiteur
+![diagramme sequence_01](https://cdn.discordapp.com/attachments/1027222476150816828/1051080904581316668/sequence_01.png)
