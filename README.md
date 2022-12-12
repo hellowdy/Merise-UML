@@ -72,3 +72,6 @@ Le diagramme de séquence permet de suivre chaque étapes dans les détails.
 Pour cette application, nous proposons 4 diagrammes :
 - Le premier cas : un simple visiteur
 ![diagramme sequence_01](https://cdn.discordapp.com/attachments/1027222476150816828/1051080904581316668/sequence_01.png)
+
+- le deuxième cas : un client achète un billet
+![diagramme sequence_02](https://cdn.discordapp.com/attachments/1027222476150816828/1051080904921063514/sequence_02.png)
