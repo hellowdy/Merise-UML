@@ -81,3 +81,8 @@ Pour cette application, nous proposons 4 diagrammes :
 
 - le quatrième cas : le client annule son achat
 ![diagramme sequence_04](https://cdn.discordapp.com/attachments/1027222476150816828/1051080905353072720/sequence_03.png)
+
+### Réalisation d'un diagramme de classe
+le diagramme de classe est basé sur l'orientée objet permettant aux différents acteurs d'avoir des propriétés uniques. 
+
+![class diagram](https://cdn.discordapp.com/attachments/1027222476150816828/1051080907139850330/class_diagram.png)
