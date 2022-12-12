@@ -86,3 +86,42 @@ Pour cette application, nous proposons 4 diagrammes :
 le diagramme de classe est basé sur l'orientée objet permettant aux différents acteurs d'avoir des propriétés uniques. 
 
 ![class diagram](https://cdn.discordapp.com/attachments/1027222476150816828/1051080907139850330/class_diagram.png)
+
+### Rédaction du dictionnaire de données
+Le dictionnaire de données permet de regrouper toute les données nécessaire pour le fonctionnement de notre application. 
+Il a d'abord été conçu lors de notre diagramme de séquence puis modifié avec le diagramme de classe.
+| Nom de la donnée  | Description                      | Format | Type        |          | Règles de calcul        |
+|-------------------|----------------------------------|--------|-------------|----------|-------------------------|
+|                   |                                  |        | Elementaire | Calculée |                         |
+| Client            |                                  |        |             |          |                         |
+| client_firstname  | First name of the client         | string | x           |          |                         |
+| client_lastname   | Last name of the client          | string | x           |          |                         |
+| client_mail       | mail of the client               | string | x           |          |                         |
+| client_phone      | client phone number              | string | x           |          |                         |
+| Réservation       |                                  |        |             |          |                         |
+| desired_departure | desired departure city           | string | x           |          |                         |
+| desired_arrival   | desired departure city           | string | x           |          |                         |
+| date_of_departure | Desired departure date           | date   | x           |          |                         |
+| date_of_arrival   | Desired arrival date             | date   | x           |          |                         |
+| isConfirmed       | Booking reservation              | bool   | x           |          |                         |
+| passenger         |                                  |        |             |          |                         |
+| passenger_name    | name of the passenger            | string | x           |          |                         |
+| passport_number   | number of the passport           | num    | x           |          |                         |
+| ticket_number     | number of the ticket             | string | x           |          |                         |
+| Agency            |                                  |        |             |          |                         |
+| commission        | price of the agency commission   | string | x           |          |                         |
+| agency_name       | name of the agency               | string | x           |          |                         |
+| total_price             | price of the booking             | num    |             | x        | seat_price + commission |
+| airplane          |                                  |        |             |          |                         |
+| flight_number     | Number of the flight             | num    | x           |          |                         |
+| company_name      | name of the company              | string | x           |          |                         |
+| departure_hour    | hour of departure for the flight | date   | x           |          |                         |
+| arrival_hour      | hour of arrival for the flight   | date   | x           |          |                         |
+| departure_date    | date of the departure            | date   | x           |          |                         |
+| arrival_date      | date of the departure            | date   | x           |          |                         |
+| departure_airport | airport of departure             | string | x           |          |                         |
+| arrival_airport   | airport of arrival               | string | x           |          |                         |
+| seat              |                                  |        |             |          |                         |
+| seat_number       | number of the seat               | num    |             |          |                         |
+| isAvailable ?     | is the seat available ?          | bool   | x           |          |                         |
+| seat_price        | price for the seat               | num    | x           |          |                         |
