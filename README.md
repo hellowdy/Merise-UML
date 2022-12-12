@@ -75,3 +75,6 @@ Pour cette application, nous proposons 4 diagrammes :
 
 - le deuxième cas : un client achète un billet
 ![diagramme sequence_02](https://cdn.discordapp.com/attachments/1027222476150816828/1051080904921063514/sequence_02.png)
+
+- Le troisième cas : la compagny qui va modifier les vols
+![diagramme sequence_03](https://cdn.discordapp.com/attachments/1027222476150816828/1051080905692807250/sequence_04.png)
