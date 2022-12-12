@@ -28,3 +28,13 @@ Le client consulte l'agence de voyage.
 - Le client paie sa réservation.
 - Le client reçoit une facture/confirmation par mail.
 - Le client peut annuler sa réservation.
+  
+**Agence de voyage**
+L'agence de voyage consulte les différents compagnies afun de proposer des solutions au client.
+- Récupère les infomations du client.
+- Récupère les informations de vols auprès des différentes compagnies.
+- L'agence calcule les potentielles escales.
+- Propose au client les différents vols disponibles.
+- Récupère le choix du client et confirme la réservation auprès de la compagnie.
+- La compagnie définit un numéro de réservation.
+- La réservation peut être composée d'un ou plusieurs vols (escales) et est composée des informations de vols pour chacun.
