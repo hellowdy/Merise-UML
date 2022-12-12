@@ -125,3 +125,6 @@ Il a d'abord été conçu lors de notre diagramme de séquence puis modifié ave
 | seat_number       | number of the seat               | num    |             |          |                         |
 | isAvailable ?     | is the seat available ?          | bool   | x           |          |                         |
 | seat_price        | price for the seat               | num    | x           |          |                         |
+
+### Réalisation du MCD
+![ MCD diagram](https://cdn.discordapp.com/attachments/1027222476150816828/1051518398087057490/Untitled_Diagram-MCD.drawio.png)
