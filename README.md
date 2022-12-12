@@ -78,3 +78,6 @@ Pour cette application, nous proposons 4 diagrammes :
 
 - Le troisième cas : la compagny qui va modifier les vols
 ![diagramme sequence_03](https://cdn.discordapp.com/attachments/1027222476150816828/1051080905692807250/sequence_04.png)
+
+- le quatrième cas : le client annule son achat
+![diagramme sequence_04](https://cdn.discordapp.com/attachments/1027222476150816828/1051080905353072720/sequence_03.png)
