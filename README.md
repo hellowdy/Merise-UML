@@ -38,3 +38,10 @@ L'agence de voyage consulte les différents compagnies afun de proposer des solu
 - Récupère le choix du client et confirme la réservation auprès de la compagnie.
 - La compagnie définit un numéro de réservation.
 - La réservation peut être composée d'un ou plusieurs vols (escales) et est composée des informations de vols pour chacun.
+  
+**Compagnie aérienne**
+La compagnie est le festionnaire des différents vols.
+- Définit en amont les informations de vol.
+- La compagnie valide ou refuse la réservation.
+- La compagnie peut annuler le vol.
+- La compagnie aérienne fournit les informations nécessaire en cas d'escale : aéroport d'escale, heure d'arrivée, heure de départ.
