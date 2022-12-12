@@ -51,3 +51,6 @@ Le vol est défini par la compagnie.
 - Une place réservé devient occupée, sinon elle est libre.
 - Un vol a un prix, un numéro de vol, un horaire de départ (date + heure) et un horaire d'arrivée.
 - Un vol est composé de places, disponibles ou non.
+
+**Ville**
+- Une ville peut posséder un ou plusieurs aéroport.
